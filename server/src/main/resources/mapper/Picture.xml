@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.player.toys.erp.server.logic.dao.PictureMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.player.toys.erp.server.logic.bean.Picture">
+        <id column="id" property="id" />
+        <result column="picname" property="picname" />
+        <result column="pic" property="pic" />
+        <result column="pictime" property="pictime" />
+        <result column="pstatu" property="pstatu" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, picname, pic, pictime, pstatu
+    </sql>
+
+</mapper>

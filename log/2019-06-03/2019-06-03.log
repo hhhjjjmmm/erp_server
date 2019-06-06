@@ -1,0 +1,35 @@
+2019-06-03 10:49:20 -获取access_token返回的json:{"errcode":40013,"errmsg":"invalid appid hint: [1RUvFa01602067]"}
+2019-06-03 10:49:20 -新获取的access_token:null
+2019-06-03 10:52:53 -获取access_token返回的json:{"access_token":"22_4W35J_5o6e3d0TziGwXBch-J66G289OKdFi1ErCb7Riy3rJ7Ew7cDdJT0NhuH0tbmixZMVktJIfn1eksZsIT9OLbBmJAodQdiaIWp9Kq3x5xYWmQMKzKxvF99j3CWQXmXcK5ZIggVHPB4FvqOEHdAHAKAD","expires_in":7200}
+2019-06-03 10:52:53 -新获取的access_token:22_4W35J_5o6e3d0TziGwXBch-J66G289OKdFi1ErCb7Riy3rJ7Ew7cDdJT0NhuH0tbmixZMVktJIfn1eksZsIT9OLbBmJAodQdiaIWp9Kq3x5xYWmQMKzKxvF99j3CWQXmXcK5ZIggVHPB4FvqOEHdAHAKAD
+2019-06-03 10:53:48 -获取access_token返回的json:{"access_token":"22_IPu-KBC7za2c8jg1ypTdafuui1XMHPJUK6O_nMXlRdMvPTpwW_JQeoUSerIgRfCoDkPKD2RvRJKqGn5EVh0qGGiNZdbc4sy8lf0_ar0tAvCt4ZRdtfNBmpcXibUeKBKOWuQxS1XN9bcAIGE9ICIbACAOIO","expires_in":7200}
+2019-06-03 10:53:48 -新获取的access_token:22_IPu-KBC7za2c8jg1ypTdafuui1XMHPJUK6O_nMXlRdMvPTpwW_JQeoUSerIgRfCoDkPKD2RvRJKqGn5EVh0qGGiNZdbc4sy8lf0_ar0tAvCt4ZRdtfNBmpcXibUeKBKOWuQxS1XN9bcAIGE9ICIbACAOIO
+2019-06-03 10:54:58 -获取access_token返回的json:{"access_token":"22_x4k0rbkHQlJcuQIul0RM64JS2wObBlrLffvTGCJEp2YpwNP1RaHAYylALYCb4sWD-O87AmHT5YY6Sw5KgK8v9CpXrV012EWwDfXgFG8gm-D5tuma6pn7bW2vuYrsIV8z7J4e1XlPlZSH_nnREFWgAFAYZQ","expires_in":7200}
+2019-06-03 10:54:58 -新获取的access_token:22_x4k0rbkHQlJcuQIul0RM64JS2wObBlrLffvTGCJEp2YpwNP1RaHAYylALYCb4sWD-O87AmHT5YY6Sw5KgK8v9CpXrV012EWwDfXgFG8gm-D5tuma6pn7bW2vuYrsIV8z7J4e1XlPlZSH_nnREFWgAFAYZQ
+2019-06-03 10:56:09 -获取access_token返回的json:{"access_token":"22_ehezlO9aWWM6YAICzA-GugNiGrtzMGtlBdilSTLco8_F5_c4-xERryE3YeZLwzmw24vz39HRJLqBjvWt2k4St4IEkpBVdLPuL-okHmMbsyiw0gBtQkU6KUkDLYJRin5Aawx_-3IUgp-crglcVNFgACANFX","expires_in":7200}
+2019-06-03 10:56:09 -新获取的access_token:22_ehezlO9aWWM6YAICzA-GugNiGrtzMGtlBdilSTLco8_F5_c4-xERryE3YeZLwzmw24vz39HRJLqBjvWt2k4St4IEkpBVdLPuL-okHmMbsyiw0gBtQkU6KUkDLYJRin5Aawx_-3IUgp-crglcVNFgACANFX
+2019-06-03 11:00:01 -获取access_token返回的json:{"access_token":"22_zBh06bPsX07C34_ZyKEiR2oUasFc4M9W1LgnjEbBWuZz-PBYIPf75qwAWEj1I2XD4C76lUQKz0ZD7jaZ7BqmN5WF9fKj18VGwgxv7LCDOMjjTcVuYTu7e7BfQdVQgFzUkvN0kKpkRLMPr6ayEUBfAGAZPW","expires_in":7200}
+2019-06-03 11:00:01 -新获取的access_token:22_zBh06bPsX07C34_ZyKEiR2oUasFc4M9W1LgnjEbBWuZz-PBYIPf75qwAWEj1I2XD4C76lUQKz0ZD7jaZ7BqmN5WF9fKj18VGwgxv7LCDOMjjTcVuYTu7e7BfQdVQgFzUkvN0kKpkRLMPr6ayEUBfAGAZPW
+2019-06-03 12:01:47 -获取access_token返回的json:{"access_token":"22_B5A13a48Gp8_cbqaNVfbfX4hCSuDWE7ErH-BK-HOjAtJnV0SVMM4SDDjMS1chVwZ8BTEZ2cJGAivHRXbRwW_PSJZhM1E0E23grQ7cXkF_q4mmAFZDgXvkQKj-VA-YCqRv1IlkQhed9tT9-DrJNAiAGAEIV","expires_in":7200}
+2019-06-03 12:01:47 -新获取的access_token:22_B5A13a48Gp8_cbqaNVfbfX4hCSuDWE7ErH-BK-HOjAtJnV0SVMM4SDDjMS1chVwZ8BTEZ2cJGAivHRXbRwW_PSJZhM1E0E23grQ7cXkF_q4mmAFZDgXvkQKj-VA-YCqRv1IlkQhed9tT9-DrJNAiAGAEIV
+2019-06-03 14:36:43 -Starting ServerApplication on SKY-20190326YRK with PID 6340 (C:\Users\Administrator\Desktop\erp_server\server\target\classes started by Administrator in C:\Users\Administrator\Desktop\erp_server)
+2019-06-03 14:36:43 -No active profile set, falling back to default profiles: default
+2019-06-03 14:36:48 -Could not validate configuration attributes as the SecurityMetadataSource did not return any attributes from getAllConfigAttributes()
+2019-06-03 14:36:50 -Started ServerApplication in 8.921 seconds (JVM running for 9.964)
+2019-06-03 14:37:17 -商品查询
+2019-06-03 15:52:57 -Starting ServerApplication on SKY-20190326YRK with PID 8696 (C:\Users\Administrator\Desktop\erp_server\server\target\classes started by Administrator in C:\Users\Administrator\Desktop\erp_server)
+2019-06-03 15:52:57 -No active profile set, falling back to default profiles: default
+2019-06-03 15:53:03 -Could not validate configuration attributes as the SecurityMetadataSource did not return any attributes from getAllConfigAttributes()
+2019-06-03 15:53:05 -Started ServerApplication in 8.756 seconds (JVM running for 9.831)
+2019-06-03 15:53:31 -商品模糊查询
+2019-06-03 15:54:27 -商品模糊查询
+2019-06-03 15:54:31 -商品模糊查询
+2019-06-03 15:55:31 -Starting ServerApplication on SKY-20190326YRK with PID 5604 (C:\Users\Administrator\Desktop\erp_server\server\target\classes started by Administrator in C:\Users\Administrator\Desktop\erp_server)
+2019-06-03 15:55:31 -No active profile set, falling back to default profiles: default
+2019-06-03 15:55:36 -Could not validate configuration attributes as the SecurityMetadataSource did not return any attributes from getAllConfigAttributes()
+2019-06-03 15:55:38 -Started ServerApplication in 7.423 seconds (JVM running for 8.236)
+2019-06-03 15:57:15 -Starting ServerApplication on SKY-20190326YRK with PID 9120 (C:\Users\Administrator\Desktop\erp_server\server\target\classes started by Administrator in C:\Users\Administrator\Desktop\erp_server)
+2019-06-03 15:57:15 -No active profile set, falling back to default profiles: default
+2019-06-03 15:57:21 -Could not validate configuration attributes as the SecurityMetadataSource did not return any attributes from getAllConfigAttributes()
+2019-06-03 15:57:23 -Started ServerApplication in 9.47 seconds (JVM running for 10.74)
+2019-06-03 15:57:31 -商品模糊查询

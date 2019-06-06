@@ -1,0 +1,4 @@
+2019-06-04 10:59:49 -Starting ServerApplication on SKY-20190326YRK with PID 8372 (C:\Users\Administrator\Desktop\erp_server\server\target\classes started by Administrator in C:\Users\Administrator\Desktop\erp_server)
+2019-06-04 10:59:49 -No active profile set, falling back to default profiles: default
+2019-06-04 10:59:56 -Could not validate configuration attributes as the SecurityMetadataSource did not return any attributes from getAllConfigAttributes()
+2019-06-04 10:59:58 -Started ServerApplication in 12.003 seconds (JVM running for 13.772)

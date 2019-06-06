@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.player.toys.erp.server.logic.dao.TbUserMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.player.toys.erp.server.logic.bean.TbUser">
+        <id column="uid" property="uid" />
+        <result column="uimg" property="uimg" />
+        <result column="uname" property="uname" />
+        <result column="uphone" property="uphone" />
+        <result column="upasswrod" property="upasswrod" />
+        <result column="ushop" property="ushop" />
+        <result column="ushopname" property="ushopname" />
+        <result column="ucreatetime" property="ucreatetime" />
+        <result column="stuts" property="stuts" />
+        <result column="stutsto" property="stutsto" />
+        <result column="openid" property="openid" />
+
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        uid, uimg, uname, uphone, upasswrod, ushop, ushopname, ucreatetime,stuts,stutsto,openid
+    </sql>
+
+</mapper>

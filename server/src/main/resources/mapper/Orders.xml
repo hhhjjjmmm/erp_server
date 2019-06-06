@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.player.toys.erp.server.logic.dao.OrdersMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.player.toys.erp.server.logic.bean.Orders">
+        <id column="id" property="id" />
+        <result column="user_id" property="userId" />
+        <result column="number" property="number" />
+        <result column="name" property="name" />
+        <result column="price" property="price" />
+        <result column="onum" property="onum" />
+        <result column="pricenum" property="pricenum" />
+        <result column="calls" property="calls" />
+        <result column="createtime" property="createtime" />
+        <result column="status" property="status" />
+        <result column="ostatus" property="ostatus" />
+        <result column="states" property="states" />
+        <result column="opic" property="opic" />
+    </resultMap>
+
+    <resultMap id="ordersVo" type="com.player.toys.erp.server.logic.VO.OrdersVO">
+        <result column="sumoid" property="sumoid"></result>
+        <result column="sumopr" property="sumopr"></result>
+        <result column="sumost" property="sumost"></result>
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, user_id, number, name, price, onum, pricenum, calls, createtime, status, ostatus,states,opic
+    </sql>
+
+    <select id="selectday" resultMap="ordersVo" >
+    SELECT  sum(comments.oid) sumoid,SUM(comments.opr) sumopr,SUM(ost) sumost FROM (
+            select count(id) oid, sum(pricenum) opr,count(IF(`status`=#{status},true,null)) ost from to_order where ostatus=#{ostatus} AND date(createtime)=curdate()
+             Union all
+            select count(id) oid, sum(pricenum) opr,count(IF(`status`=#{status},true,null)) ost from orders where  ostatus=#{ostatus} AND date(createtime)=curdate()
+    ) comments
+    </select>
+
+</mapper>
